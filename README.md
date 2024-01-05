@@ -1,8 +1,8 @@
 # Hello World! 🎈
 
 - 👩‍🎓 Estudante de Engenharia de Sistemas da UFMG
-- 💻 Integrante da Empresa Junior IJunior como desenvolvedora back-end em TypeScript e membro da diretoria de Marketing
-- 💼 Estagiária no Mercado Eletrônico como desenvolvedora back-end em C#
+- 💻 Integrante da EJ IJunior como dev back-end em TypeScript e membro da diretoria de Marketing
+- 💼 Estagiária no Mercado Eletrônico como dev back-end em C#
 - 🌆 Belo Horizonte, Minas Gerais
 
 <div align="center">
